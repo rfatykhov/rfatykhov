@@ -1,7 +1,7 @@
 Hello
-I'm Ruslan, a tech enthusiast and a frontend developer.
+I'm Ruslan, a frontend developer.
 
-Skill set: TypeScript, Vue, Nuxt, React-Redux, Node, SCSS, Webpack, mongoDB, MySQL, Bootstrap, Bulma.
+Skill set: TypeScript, Vue, Nuxt, React-Redux, Node, SCSS, Webpack, mongoDB, MySQL, Bootstrap.
 
 Get in touch: [telegram](t.me/rfatykhov) or email (rufatykhov@gmail.com)
                                
