@@ -2,6 +2,7 @@ Hello
 I'm Ruslan, a frontend developer.
 
 Skill set: TypeScript, Vue, Nuxt, React-Redux, Node, SCSS, Webpack, mongoDB, MySQL, Bootstrap.
+(and a little bit of Rust)
 
 Get in touch: [telegram](t.me/rfatykhov) or email (rufatykhov@gmail.com)
                                
